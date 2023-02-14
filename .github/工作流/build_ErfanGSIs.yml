@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/16/8.1.5.1/cn/20210826144309/44eca339/update.zip
+  ROM_URL: https://pan.baidu.com/s/1d63pOcvHto6b8p1A-4AwOw?pwd=csom
   ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
