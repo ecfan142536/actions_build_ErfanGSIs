@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://pan.baidu.com/s/1d63pOcvHto6b8p1A-4AwOw?pwd=csom
+  ROM_URL: https://pan.baidu.com/s/1Q6rsLcA8ZKIpwmh2QO6zVA?pwd=jwwh
   ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
